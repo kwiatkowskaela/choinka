@@ -1,0 +1,15 @@
+h1 {
+    font-size: 47px;
+    color: deeppink;
+    text-decoration: underline;
+    text-shadow: 0.5px;
+}
+
+.main {
+    background-color: dimgrey;
+    height: 300px;
+    width: 100%;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
